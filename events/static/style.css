@@ -1,7 +1,6 @@
-.div-backgroud {
-    backgroud-image: url('https://logosapologetica.com/wp-content/themes/goodnews4/framework/scripts/timthumb.php?src=https://logosapologetica.com/wp-content/uploads/2012/12/ads_ohobbit1.jpg&h=275&w=599&zc=1');
-    backgroud-position: botton;
-    backgroud-size: cover;
+.div-background {
+    background-image: url('https://blog.emania.com.br/content/uploads/2017/04/1.png');
+    background-position: bottom;
+    background-size: cover;
     color: #fff;
-
 }
